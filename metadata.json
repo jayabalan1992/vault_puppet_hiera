@@ -1,0 +1,13 @@
+{
+  "name": "gsi-hiera_vault",
+  "version": "0.1.2",
+  "author": "Ryan White",
+  "summary": "Hiera 5 backend for Hashicorp Vault - with newly added SSL options on vault lookup ruby",
+  "license": "MIT",
+  "source": "",
+  "project_page": "",
+  "issues_url": "",
+  "dependencies": [],
+  "data_provider": null
+}
+
